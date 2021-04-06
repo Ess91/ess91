@@ -1,7 +1,12 @@
 ![Profile Banner](/img/banner.png)
 
+## Latest Blogs
 
-<button class="btn btn-orange" type="button">Button button</button>
+* [Chingu - Part 1](http://estherboateng.co.uk/chingu)
+
+* [Chingu - Part2](http://estherboateng.co.uk/chingupart2)
+
+* [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
 <!--
 **Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
