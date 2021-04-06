@@ -1,6 +1,6 @@
 ![Profile Banner](/img/banner.png)
 
-<h2 style="color:blue;"> Latest Blogs</h2>
+## Latest Blogs 
 
 * [Chingu - Part 1](http://estherboateng.co.uk/chingu)
 
@@ -11,7 +11,7 @@
 
 [More Blog Posts](http://estherboateng.co.uk/blog)
 
-<a href="www.bbc.co.uk">BBC</a>
+<a href="www.estherboateng.co.uk" style="background-color: black;">My Website</a>
 
 ### Contact
 
