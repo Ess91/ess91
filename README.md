@@ -8,7 +8,14 @@
 
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
-- [More Blog Posts](http://estherboateng.co.uk/blog)
+
+[More Blog Posts](http://estherboateng.co.uk/blog)
+
+<a href="www.bbc.co.uk">BBC</a>
+
+### Contact
+
+:email: 
 
 <!--
 **Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
