@@ -1,4 +1,6 @@
-![Profile Banner](/img/banner.png)
+<!--![Profile Banner](/img/banner.png)-->
+
+<img src="/img/banner.png">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=45></a>  &nbsp; <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a> &nbsp;  <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
