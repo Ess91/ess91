@@ -1,4 +1,4 @@
-![Profile Banner](ess91/banner.png)
+![Profile Banner](/img/banner.png)
 Format: ![Alt Text](url)
 
 <!--
