@@ -1,6 +1,5 @@
 <img src="/img/banner.png">
 
-<h1>Contact Me</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=45></a>  &nbsp; <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a> &nbsp;  <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
@@ -34,7 +33,7 @@
 
 <img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Killer of the Flower Moon
 
-<img src="/img/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp;  New Skill: Learning to Sew
+<img src="/img/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp; Learning to Sew
 
 <img src="/img/website-layout.png" width=13 alt="Website Layout"> &nbsp; Learning all about UX/UI Design
 
