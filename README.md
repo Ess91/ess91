@@ -1,6 +1,6 @@
 ![Profile Banner](/img/banner.png)
 
-## Latest Blogs
+<h2> Latest Blogs</h2>
 
 * [Chingu - Part 1](http://estherboateng.co.uk/chingu)
 
