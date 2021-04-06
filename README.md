@@ -8,11 +8,24 @@
 
 
 
-## Latest Blogs 
+<h2> Latest Blogs </h2> 
 
+<ul>
+
+<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+
+<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+
+<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+
+<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+
+<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+
+</ul>
 * [Chingu - Part 1](http://estherboateng.co.uk/chingu)
 
-* [Chingu - Part 2](http://estherboateng.co.uk/chingupart2)
+ [Chingu - Part 2](http://estherboateng.co.uk/chingupart2)
 
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
