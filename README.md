@@ -1,6 +1,8 @@
 ![Profile Banner](/img/banner.png)
 
+<p align="center">
 <a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=40></a>   <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a>   <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
+</p>
 
 
 
