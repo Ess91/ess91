@@ -1,5 +1,12 @@
 ![Profile Banner](/img/banner.png)
-<a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=50></a>
+
+<a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=40></a>
+
+<a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a>
+
+<a href="mailto:eagyare91@gmail.com"><img src="/img/website-icon.png" width=40></a>
+
+
 
 
 ## Latest Blogs 
@@ -11,7 +18,7 @@
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
 
-<img src="/img/arrow.png" width=50> [More Blog Posts](http://estherboateng.co.uk/blog)
+<img src="/img/arrow.png" width=10> [More Blog Posts](http://estherboateng.co.uk/blog)
 
 
 
