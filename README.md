@@ -8,7 +8,7 @@
 
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
-![arrow](/img/arrow.png =100) [More Blog Posts](http://estherboateng.co.uk/blog)
+- [More Blog Posts](http://estherboateng.co.uk/blog)
 
 <!--
 **Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
