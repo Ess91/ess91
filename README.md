@@ -20,7 +20,7 @@
 
 ### Fun Facts
 
-<img src="/img/calculator" width=13> Favourite Subject: Maths
+<img src="/img/calculator-icon.png" width=13 alt="Calculator"> Favourite Subject: Maths
 
 
 <!--
