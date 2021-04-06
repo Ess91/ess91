@@ -14,6 +14,10 @@
 
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
+* [End of The Year - 2020](http://estherboateng.co.uk/endofyear)
+
+* [Celebrating The Small Wins...](http://estherboateng.co.uk/celebrate)
+
 
 <img src="/img/arrow.png" width=13> [More Blog Posts](http://estherboateng.co.uk/blog)
 
@@ -24,7 +28,7 @@
 
 <img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Killer of the Flower Moon
 
-<img src="/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp;  New Skill: Learning to Sew
+<img src="/img/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp;  New Skill: Learning to Sew
 
 <img src="/img/website-layout.png" width=13 alt="Website Layout"> &nbsp; Learning all about UX/UI Design
 
