@@ -1,13 +1,8 @@
 ![Profile Banner](/img/banner.png)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=42></a>  &nbsp; <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a> &nbsp;  <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
+<a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=45></a>  &nbsp; <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a> &nbsp;  <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
 </p>
-
-
-
-
-
 
 
 
@@ -20,13 +15,13 @@
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
 
 
-<img src="/img/arrow.png" width=10> [More Blog Posts](http://estherboateng.co.uk/blog)
+<img src="/img/arrow.png" width=13> [More Blog Posts](http://estherboateng.co.uk/blog)
 
 
+### Fun Facts
 
-### Contact
+<img src="/img/calculator" width=13> Favourite Subject: Maths
 
-:email: 
 
 <!--
 **Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
