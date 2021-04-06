@@ -11,7 +11,7 @@
 
 [More Blog Posts](http://estherboateng.co.uk/blog)
 
-<a href="www.estherboateng.co.uk" style="background-color: black;">My Website</a>
+<img src="/img/arrow.png" width=100>
 
 ### Contact
 
