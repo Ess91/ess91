@@ -14,24 +14,15 @@
 
 <li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
 
-<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+<li><a href="http://estherboateng.co.uk/chingupart2">Chingu - Part 2</a></li>
 
-<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+<li><a href="http://estherboateng.co.uk/balance">Finding The Right Balance</a></li>
 
-<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+<li><a href="http://estherboateng.co.uk/endofyear">End of The Year - 2020</a></li>
 
-<li><a href="http://estherboateng.co.uk/chingu">Chingu - Part 1</a></li>
+<li><a href="http://estherboateng.co.uk/celebrate">Celebrating The Small Wins...</a></li>
 
 </ul>
-* [Chingu - Part 1](http://estherboateng.co.uk/chingu)
-
- [Chingu - Part 2](http://estherboateng.co.uk/chingupart2)
-
-* [Finding The Right Balance](http://estherboateng.co.uk/balance)
-
-* [End of The Year - 2020](http://estherboateng.co.uk/endofyear)
-
-* [Celebrating The Small Wins...](http://estherboateng.co.uk/celebrate)
 
 
 <img src="/img/arrow.png" width=13> [More Blog Posts](http://estherboateng.co.uk/blog)
