@@ -1,6 +1,6 @@
-<!--![Profile Banner](/img/banner.png)-->
-
 <img src="/img/banner.png">
+
+<h1>Contact Me</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/esther-agyare-boateng-004a3453/"><img src="/img/linkedin-icon.png" width=45></a>  &nbsp; <a href="http://estherboateng.co.uk/"><img src="/img/website-icon.png" width=40></a> &nbsp;  <a href="mailto:eagyare91@gmail.com"><img src="/img/mail-icon.png" width=40></a>
@@ -8,7 +8,7 @@
 
 
 
-<h2> Latest Blogs </h2> 
+<h1> Latest Blogs </h1> 
 
 <ul>
 
@@ -28,7 +28,7 @@
 <img src="/img/arrow.png" width=13> [More Blog Posts](http://estherboateng.co.uk/blog)
 
 
-### Fun Facts
+<h2>Fun Facts</h2>
 
 <img src="/img/calculator-icon.png" width=13 alt="Calculator"> &nbsp;Favourite Subject: Maths
 
@@ -38,18 +38,3 @@
 
 <img src="/img/website-layout.png" width=13 alt="Website Layout"> &nbsp; Learning all about UX/UI Design
 
-
-<!--
-**Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
