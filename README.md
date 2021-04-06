@@ -4,9 +4,11 @@
 
 * [Chingu - Part 1](http://estherboateng.co.uk/chingu)
 
-* [Chingu - Part2](http://estherboateng.co.uk/chingupart2)
+* [Chingu - Part 2](http://estherboateng.co.uk/chingupart2)
 
 * [Finding The Right Balance](http://estherboateng.co.uk/balance)
+
+➡️ [More Blog Posts](http://estherboateng.co.uk/blog)
 
 <!--
 **Ess91/ess91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
