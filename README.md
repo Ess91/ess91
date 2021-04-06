@@ -20,7 +20,13 @@
 
 ### Fun Facts
 
-<img src="/img/calculator-icon.png" width=13 alt="Calculator"> Favourite Subject: Maths
+<img src="/img/calculator-icon.png" width=13 alt="Calculator"> &nbsp;Favourite Subject: Maths
+
+<img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Killer of the Flower Moon
+
+<img src="/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp;  New Skill: Learning to Sew
+
+<img src="/img/website-layout.png" width=13 alt="Website Layout"> &nbsp; Learning all about UX/UI Design
 
 
 <!--
