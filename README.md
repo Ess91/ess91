@@ -1,4 +1,4 @@
-![GitHub Logo](/Documents/banner.png)
+![Profile Banner](ess91/banner.png)
 Format: ![Alt Text](url)
 
 <!--
