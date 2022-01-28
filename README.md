@@ -31,7 +31,7 @@
 
 <img src="/img/calculator-icon.png" width=13 alt="Calculator"> &nbsp;Favourite Subject: Maths
 
-<img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Killer of the Flower Moon
+<img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Truth Be Told
 
 <img src="/img/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp; Learning to Sew
 
