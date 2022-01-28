@@ -34,6 +34,3 @@
 <img src="/img/book-icon.png" width=13 alt="Book"> &nbsp; Current Book: Truth Be Told
 
 <img src="/img/sewing-icon.png" width=13 alt="Sewing Machine"> &nbsp; Learning to Sew
-
-<img src="/img/website-layout.png" width=13 alt="Website Layout"> &nbsp; Learning all about UX/UI Design
-
